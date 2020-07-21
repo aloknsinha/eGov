@@ -1,0 +1,48 @@
+total_pay int as((basic +hra+deduction)-tax)
+
+foreighn key(deptid) references department(deptid);
+
+select *from book where price < (select avg(price) from book where category = ;xyz');
+
+select *from book where price > all(select avg(price) from book group by 'category');
+
+select distname from distributor where distid in(select distid from ordered where title in
+(select title from book where author='xyz')) ;//suuply the book title =xyz
+
+select * from author where counrty='india' union select * from publisher where counrty='india';
+
+select * from author where counrty='india' union select * from publisher where counrty='india' ordered by 'city';
+
+select title,autname,price as old price,(price*10)/100 as discount, price-(price*10)/100 as new price from book
+where price < 10 union..........
+
+//inner join
+select * from book innerjoin book2 ON book.title = Book2.Tiile;
+
+//leftjoin
+select * from book leftjoin book2 ON book.title = Book2.Tiile;
+
+//rightjoin
+select * from book rightjoin book2 ON book.title = Book2.Tiile;
+
+//full outer join
+select * from book full outer join book2 ON book.title = Book2.Tiile;
+
+//self join
+select column_name from t1,t2,t3,...where condn....;
+
+//insert into select
+insert into select t2(c1,c2,....)select  * from t1 where condtn...;
+
+//select into
+select * ino new table[in ext db] from old_db where con....;
+
+//min and max
+select min(column) from t1 where cond...;
+select max(column) from t1 where cond...;
+
+delete from t1 where condn;
+
+select distinct c1 from t1;
+
+

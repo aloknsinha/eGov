@@ -1,0 +1,143 @@
+#login2 #header
+{
+    font-size:px;
+	margin-left:1000px;
+	margin-top:px;
+	color:#ebf442;
+}
+#login2 #text
+{
+    font-size:25px;
+	margin-left:850px;
+	margin-top:1px;
+}
+#login2 #confirm
+{
+	margin-left:760px;
+	font-size:25px;
+}
+#login2 #dob
+{
+	margin-left:895px;
+	font-size:25px;
+}
+#login2 #Gender
+{
+	margin-left:870px;
+	font-size:25px;
+	margin-top:17px;
+}
+#login2 #m
+{
+	margin-left:1000px;
+	font-size:25px;
+	margin-top:-27px;
+}
+
+#login2 #f
+{
+	margin-left:1000px;
+	font-size:25px;
+}
+#login2 #selection
+{
+	margin-left:834px;
+	font-size:25px;
+}
+#login2 #sel
+{
+	margin-left:1000px;
+	font-size:25px;
+	margin-top:-20px;
+}
+
+#login2 #contact
+{
+	margin-left:830px;
+	font-size:25px;
+}
+
+#login2 #fp
+{
+	margin-left:1000px;
+	font-size:20px;
+}
+
+#login2 #submit
+{
+	margin-left:1000px;
+	font-size:25px;
+}
+
+#login #header
+{
+	margin-left:600px;
+	margin-top:150px;
+	color:#1568ed;
+}
+
+#login #text
+{
+	font-size:25px;
+	margin-left:500px;
+	color:#e8f711;
+}
+
+#login #fp
+{
+	margin-left:729px;
+	font-size:20px;
+}
+#login #SignIn
+{
+	margin-left:650px;
+	margin-top:-20px;
+}
+#login #ca
+{
+	margin-left:700px;
+	color:#4286f4;
+	font-size:25px;
+}
+input[type="password"], input[type="text"],input[type="number"],input[type="date"]
+{
+  border: 1px solid #a1a3a3;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: black;
+  height: 30px;
+  margin: 31px 0 0 20px;
+  padding-left: 37px;
+  width: 240px;
+}
+
+
+
+input[type="submit"]
+ {
+  width:140px;
+  height:35px;
+  display:block;
+  font-family:Arial, "Helvetica", sans-serif;
+  font-size:18px;
+  font-weight:bold;
+  color:green;
+  text-decoration:none;
+  text-transform:uppercase;
+  text-align:center;
+  padding-top:6px;
+  margin: 29px 0 0 29px;
+  position:relative;
+  cursor:pointer;
+  border: none;  
+  background-color: #37a69b;
+  background-image: linear-gradient(top,#3db0a6,#3111);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius:5px;
+  }
+
+
+
+

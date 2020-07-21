@@ -1,0 +1,48 @@
+#nineee{margin-left:600px;margin-right:0px;margin-top:150px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+  	width:50px;height:25px;color: yellow;padding-top:5px;padding-left:20px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#tennn{margin-left:800px;margin-right:0px;margin-top:-32px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+  	width:50px;height:25px;padding-top:5px;padding-left:5px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#elevennn{margin-left:387px;margin-right:0px;margin-top:-32px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+    width:50px;height:25px;padding-top:5px;padding-left:5px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#twelvenn{margin-left:475px;margin-right:0px;margin-top:-32px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+    width:50px;height:25px;padding-top:5px;padding-left:5px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#gradnnn{margin-left:563px;margin-right:0px;margin-top:-32px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+    width:100px;height:25px;padding-top:5px;padding-left:5px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#pgradnnn{margin-left:701px;margin-right:0px;margin-top:-32px;background-color: blue;font-family:Arial, "Helvetica", sans-serif;
+    width:150px;height:25px;padding-top:5px;padding-left:5px;font-weight:bold;font-size: 17px;
+    border: 1px solid yellow;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+#srcbox{margin-left:1100px;margin-right:0px;margin-top:-25px;}
+#srcbutton{margin-left:1270px;margin-right:0px;margin-top:-49px;}
+input[type="submit"] {width:60px;height:20px;display:block;font-family:Arial, "Helvetica", sans-serif;font-size:10px;
+  font-weight:bold;color:white; text-decoration:none; text-transform:uppercase; text-align:center; padding-top:2px;
+  margin: 29px 2px 2px 0px ; position:relative; cursor:pointer; border: 1px solid red; background-color: gray; 
+  border-top-left-radius: 15px;border-top-right-radius: 15px; border-bottom-right-radius: 15px;border-bottom-left-radius:15px;}
+  input[type="text"]{ border: 1px solid darkblue; border-radius: 0px; 
+  box-sizing: border-box;color: black; height: 20px; margin: 31px 0 0 20px; padding-left: 5px;width: 150px;}
+
+.drop{background-color: blue;font-family:Arial, "Helvetica", sans-serif;width:160px;height:40px;color: white;
+  font-weight:bold;font-size: 17px;border: 2px solid black;}
+.dropbtn:hover, .dropbtn:focus{background-color: lightblue;}
+.dropdown{position: relative;display: inline-block;}
+.dropdown-content{display: none;position: absolute;background-color: gray;min-width: 160px;
+  box-shadow: 10px 10px 30px 10px rgba(2,1,305,0.2);z-index: 1;}
+.dropdown-content a{color: black;text-align:center;font-weight:bold;padding: 12px 16px;text-decoration: none;
+  display: block;}
+.dropdown-content a:hover {background-color: lightblue}
+.show {display:block;}
+
+#nine{margin-left:120px;margin-top:50px;margin-top:120px;}
+#ten{margin-left:300px;margin-top:-40px;}
+#eleven{margin-left:480px;margin-top:-40px;}
+#twelve{margin-left:660px;margin-top:-40px;}
+#grad{margin-left:840px;margin-top:-40px;}
+#pg{margin-left:1020px;margin-top:-40px;}
+#deleterec{margin-left:600px;margin-right:0px;margin-top:200px;background-color: black;font-family:Arial, "Helvetica", sans-serif;
+    width:150px;height:25px;color: red;padding-top:5px;padding-left:20px;font-weight:bold;font-size: 17px;
+    border: 2px solid red;box-shadow: 5px 5px 20px 5px rgba(2,1,305,0.2);}
+

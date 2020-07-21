@@ -1,0 +1,19 @@
+input[type="text"]{border: 1px solid #a1a3a3; border-radius: 4px; box-sizing: border-box;
+  color: black; height: 33px; margin: 31px 0 0 20px; padding-left: 3px; width: 200px; font-size:13px;}
+#userreg{font-size:20px;  color:darkgreen; margin-left:0px;  margin-top:20px;}
+#all{  margin-left:50px;  margin-top:50px;}
+input[type="submit"]{ width:140px; height:35px; display:block; font-family:Arial, "Helvetica", sans-serif;
+  font-size:18px; font-weight:bold;color:green; text-decoration:none; text-transform:uppercase;  text-align:center;
+  padding-top:6px; margin: 29px 0 0 29px; position:relative;cursor:pointer;border: none;background-color: #37a69b;
+  background-image: linear-gradient(top,#3db0a6,#3111); border-top-left-radius: 5px;border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px; border-bottom-left-radius:5px;}
+#submit{margin-left:150px;margin-top:15px;margin-right:0px;}
+#reg{font-size:25px;margin-left:80px;margin-top:0px;color:darkblue;}
+#IDD{font-size:25px;margin-left:80px;margin-top:30px;color:darkblue;}#id{font-size:25px;margin-left:320px;margin-top:-60px;}
+#s1{font-size:25px;margin-left:240px;margin-top:-60px;}#sub1{font-size:25px;margin-left:0px;margin-top:30px;}
+#s2{font-size:25px;margin-left:240px;margin-top:-60px;}#sub2{font-size:25px;margin-left:0px;margin-top:30px;}
+#s3{font-size:25px;margin-left:240px;margin-top:-60px;}#sub3{font-size:25px;margin-left:0px;margin-top:30px;}
+#s4{font-size:25px;margin-left:240px;margin-top:-60px;}#sub4{font-size:25px;margin-left:0px;margin-top:30px;}
+#s5{font-size:25px;margin-left:240px;margin-top:-60px;}#sub5{font-size:25px;margin-left:0px;margin-top:30px;}
+#s6{font-size:25px;margin-left:240px;margin-top:-60px;}#sub6{font-size:25px;margin-left:0px;margin-top:30px;}
+  
